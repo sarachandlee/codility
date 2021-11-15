@@ -35,10 +35,3 @@ function solution(X,A) {
     }
     return pos;
 }
-// let X = 5;
-// let A = [1,3,1,4,2,3,5,4];
-// let X = 3;
-// let A = [1, 3, 1, 3, 2, 1, 3];
-let X = 1;
-let A = [1];
-console.log(solution(X,A));

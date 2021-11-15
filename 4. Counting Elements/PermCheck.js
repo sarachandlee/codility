@@ -18,6 +18,3 @@ function solution(A) {
         return 1;
     }
 }
-
-let A = [1,4,2,1];
-console.log(solution(A));
